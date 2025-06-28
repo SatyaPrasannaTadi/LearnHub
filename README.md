@@ -2,7 +2,9 @@
 LearnHub: Your Center for Skill Enhancement
 
 An online learning platform(OLP) is a digital platform that provides a variety of tools and resources to facilitate learning and education over the internet. These platforms have become increasingly popular, especially in recent years, as they offer flexibility and accessibility for learners of all ages and backgrounds.
-![image](https://github.com/user-attachments/assets/1121c172-8f15-4878-90e6-fc4a79adfbcd)
+
+!![image](https://github.com/user-attachments/assets/f324fcfb-c8b3-4a89-97d1-80280e05e73b)
+
 
 
 ## 📋 Pre-requisites
